@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Atul Sharma
 
 <!-- ![Coder Illustration](./pexels-vladbagacian-3987066.jpg) -->
-<img src="./pexels-vladbagacian-3987066.jpg" alt="Coder Illustration"  height="350">
+<img src="./pexels-vladbagacian-3987066.jpg" alt="Coder Illustration"  height="350" width="100%">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
