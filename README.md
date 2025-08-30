@@ -7,7 +7,7 @@ I'm a **Senior Software Engineer** specializing in **Frontend & Full-Stack Devel
 ## 🔧 Tech Stack
 
 **Frontend:**  
-- Frameworks & Libraries: React.js | Next.js | Material UI | Styled Components | Storybook | Micro-Frontend  
+- Frameworks & Libraries: [React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Next.js | Material UI | Styled Components | Storybook | Micro-Frontend  
 - Languages & Styling: JavaScript | TypeScript | HTML | CSS | SCSS  
 - Data Handling: React Query (TanStack Query)  
 
