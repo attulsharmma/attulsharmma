@@ -19,12 +19,13 @@ I'm a **Senior Software Engineer** specializing in **Frontend & Full-Stack Devel
 - Interested in **system design** and **learning new tech** to grow as a full-stack developer.  
 
 ---
-
+<!-- 
 ## 📈 GitHub Stats
 
 ![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=attulsharmma&show_icons=true&theme=radical)
 
 ---
+-->
 
 ## 💬 Get in Touch
 
