@@ -59,7 +59,3 @@ I'm a **Senior Software Engineer** specializing in **Frontend & Full-Stack Devel
 - **Email:** attulsharmma@gmail.com  
 - **LinkedIn:** [linkedin.com/in/atul-sharma](https://www.linkedin.com/in/attul-sharmma/)  
 <!-- - **Portfolio:** [atulsharma.dev]() -->
-
----
-
-✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
