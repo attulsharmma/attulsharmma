@@ -18,7 +18,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-I'm a **Senior Software Engineer** specializing in **Frontend & Full-Stack Development** with 6+ years of experience building scalable web applications using **React.js, Next.js, TypeScript, and Node.js**.  
+I'm a **Senior Software Engineer** specializing in **Frontend & Full-Stack Development** with 6+ years of experience building scalable web applications using **React.js, Next.js, and TypeScript**.  
 
 ---
 
