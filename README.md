@@ -6,11 +6,18 @@ I'm a **Senior Software Engineer** specializing in **Frontend & Full-Stack Devel
 
 ## 🔧 Tech Stack
 
-**Frontend:** React.js | Next.js | JavaScript | TypeScript | React Query (TanStack Query) | Material UI | Styled Components | HTML | CSS | SCSS | Storybook | Micro-Frontend  
+**Frontend:**  
+- Frameworks & Libraries: React.js | Next.js | Material UI | Styled Components | Storybook | Micro-Frontend  
+- Languages & Styling: JavaScript | TypeScript | HTML | CSS | SCSS  
+- Data Handling: React Query (TanStack Query)  
+
 **State Management:** Redux | Redux-Thunk | Redux-Saga | Valtio  
+
 **Backend:** Python | Django | Node.js | Express.js  
+
 **Databases:** PostgreSQL | MySQL | MongoDB  
-**Tools & Platforms:** Git | Webpack | Azure | Postman  
+
+**Tools & Platforms:** Git | Webpack | Azure | Postman 
 
 ---
 
